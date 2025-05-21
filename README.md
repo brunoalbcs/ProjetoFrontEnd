@@ -1,2 +1,4 @@
-# ProjetoFrontEnd
-Ainda não tenho certeza do que vai ser. Vou ver algumas aulas e decido, mas quero trabalhar nele todo dia um pouco.
+# Currículo Web
+
+Landing Page interativa destacando minhas habilidades profissionais.
+
